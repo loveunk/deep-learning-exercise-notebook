@@ -13,6 +13,8 @@
    * [Gradient Checking](2.%20Improving%20Deep%20Neural%20Networks/week5/Gradient%20Checking)
    * [Initialization](2.%20Improving%20Deep%20Neural%20Networks/week5/Initialization)
    * [Regularization](2.%20Improving%20Deep%20Neural%20Networks/week5/Regularization)
+1. [week6](2.%20Improving%20Deep%20Neural%20Networks/week6)
+1. [week7](2.%20Improving%20Deep%20Neural%20Networks/week7)
 ## 3. Structuring Machine Learning Projects
 ## 4. Convolutional Neural Networks
 ## 5. Sequence Models
