@@ -10,7 +10,9 @@
    * [Deep Neural Network Application_ Image Classification](1.%20Neural%20Networks%20and%20Deep%20Learning/Week%204/Deep%20Neural%20Network%20Application_%20Image%20Classification)
 ## 2. Improving Deep Neural Networks
 1. [week5](2.%20Improving%20Deep%20Neural%20Networks/week5)
+   * [Gradient Checking](2.%20Improving%20Deep%20Neural%20Networks/week5/Gradient%20Checking)
    * [Initialization](2.%20Improving%20Deep%20Neural%20Networks/week5/Initialization)
+   * [Regularization](2.%20Improving%20Deep%20Neural%20Networks/week5/Regularization)
 ## 3. Structuring Machine Learning Projects
 ## 4. Convolutional Neural Networks
 ## 5. Sequence Models
