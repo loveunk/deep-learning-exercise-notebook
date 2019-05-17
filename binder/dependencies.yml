@@ -1,0 +1,12 @@
+dependencies:
+  - python=3
+  - numpy
+  - pip:
+    - math
+    - matplotlib
+    - pandas
+    - PIL
+    - scikit-learn
+    - scipy
+    - time
+    - tensorflow
