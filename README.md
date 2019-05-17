@@ -21,3 +21,13 @@
 ## Others
 * Only empty notebooks (without answers) are provided.
 * For any questions, please submit issues.
+
+## Practice in myBinder.org
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/loveunk/deep-learning-exercise-notebook/master)
+
+or copy the following URL:
+
+```js
+https://mybinder.org/v2/gh/loveunk/deep-learning-exercise-notebook/master
+```
