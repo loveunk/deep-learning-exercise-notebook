@@ -1,0 +1,12 @@
+name: default-environment
+channels:
+  - conda-forge
+dependencies:
+  - python
+  - pandas
+  - matplotlib
+  - numpy
+  - pillow
+  - scikit-learn
+  - scipy
+  - tensorflow
