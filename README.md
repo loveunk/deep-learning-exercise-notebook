@@ -30,4 +30,3 @@ or copy the following URL:
 
 ```js
 https://mybinder.org/v2/gh/loveunk/deep-learning-exercise-notebook/answers
-```
